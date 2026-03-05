@@ -1,0 +1,219 @@
+header {
+    /* Rectangle 5 */
+
+position: absolute;
+width: 750px;
+height: 100px;
+left: 10px;
+top: 0px;
+
+background: #241202;
+
+}
+main {
+    /* Rectangle 3 */
+
+position: absolute;
+width: 640px;
+height: 354px;
+left: 0px;
+top: 68px;
+
+background: url(завантаження (2).jpg);
+
+}
+footer {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 750px;
+height: 125px;
+left: 10px;
+top: 450px;
+
+background: #241202;
+
+}
+h2 {
+    /* Breakfast ALL day */
+
+position: absolute;
+width: 220px;
+height: 39px;
+left: 19px;
+top: 10px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 200;
+font-size: 28px;
+line-height: 26px;
+
+color: #FAC494;
+
+
+}
+
+.a1{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:380px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+.a2{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:490px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+.a3{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:580px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+h4 {
+    /* Щодня з 7:00-22:00 */
+
+position: absolute;
+width: 525px;
+height: 49px;
+left: 12px;
+top:0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFBD99;
+
+
+
+/* instagram: @breakfast.allday */
+
+position: absolute;
+width: 321px;
+height: 84px;
+left: 18px;
+top: 0px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+
+color: #D99D7D;
+
+
+
+/* сніданки цілий день */
+
+position: absolute;
+width: 256px;
+height: 42px;
+left: 19px;
+top: 0px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+color: #D99D7D;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.rn {
+    /* Ранковий настрій без обмежень! */
+
+position: absolute;
+width: 701px;
+height: 174px;
+left: 125px;
+top: 116px;
+
+font-family: 'Kolker Brush';
+font-style: normal;
+font-weight: 450;
+font-size: 37px;
+line-height: 35px;
+
+color: #2B1605;
+border:2px;
+
+}
+.ml {
+    /* Від млинців до смачної кави */
+
+position: absolute;
+width: 378px;
+height: 67px;
+left: 185px;
+top: 159px;
+
+font-family: 'Jockey One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #512709;
+
+
+}
+button {
+    /* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 282px;
+height: 69px;
+left: 225px;
+top: 245px;
+
+background: #241202;
+border: 2px solid #E4AD95;
+border-radius: 7px;
+
+color:#E4AD95;
+font-size: 23px;
+}
