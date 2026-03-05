@@ -2,7 +2,7 @@ header {
     /* Rectangle 5 */
 
 position: absolute;
-width: 750px;
+width: 900px;
 height: 100px;
 left: 10px;
 top: 0px;
@@ -14,7 +14,7 @@ main {
     /* Rectangle 3 */
 
 position: absolute;
-width: 640px;
+width: 900px;
 height: 354px;
 left: 0px;
 top: 68px;
@@ -26,7 +26,7 @@ footer {
     /* Rectangle 2 */
 
 position: absolute;
-width: 750px;
+width: 900px;
 height: 125px;
 left: 10px;
 top: 450px;
