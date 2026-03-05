@@ -1,0 +1,310 @@
+header {
+    /* Rectangle 5 */
+
+position: absolute;
+width: 730px;
+height: 100px;
+left: 10px;
+top: 0px;
+
+background: #241202;
+
+}
+main{
+    /* Frame 1 */
+
+position: relative;
+width: 730px;
+height: 400px;
+top: 90px;
+background: #F8C783;
+
+}
+
+footer {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 730px;
+height: 100px;
+left: 10px;
+top: 490px;
+
+background: #241202;
+
+} 
+
+.a1{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:380px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+.a2{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:490px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+.a3{
+    text-decoration: none;
+  position: absolute;
+width: 470px;
+height: 10px;
+left:580px;
+top:30px;
+
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;  
+}
+h2 {
+    /* Breakfast ALL day */
+
+position: absolute;
+width: 220px;
+height: 39px;
+left: 19px;
+top: 10px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 200;
+font-size: 28px;
+line-height: 26px;
+
+color: #FAC494;
+
+
+}
+h3 {
+    /* Головна Меню Бронювання */
+
+position: absolute;
+width: 470px;
+height: 10px;
+left: 400px;
+top: 10px;
+
+font-family: 'JejuHallasan';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 15px;
+
+color: #F6BA94;
+
+
+}
+.menu {
+/* Rectangle 8 */
+
+position: absolute;
+width: 175px;
+height: 300px;
+left: 31px;
+top: 50px;
+
+background: #78481D;
+border-radius: 6px;
+}
+.menu1 {
+/* Rectangle 8 */
+
+position: absolute;
+width: 175px;
+height: 300px;
+left: 275px;
+top: 50px;
+
+background: #78481D;
+border-radius: 6px;
+}
+.menu2 {
+/* Rectangle 8 */
+
+position: absolute;
+width: 175px;
+height: 300px;
+left: 520px;
+top: 50px;
+
+background: #78481D;
+border-radius: 6px;
+}
+.dr {
+    /* Drinks */
+
+position: absolute;
+width: 300px;
+height: 32px;
+left: 70px;
+top: 50px;
+
+font-family: 'jsMath-cmmi10';
+font-style: italic;
+font-weight: 700;
+font-size: 35px;
+line-height: 31px;
+
+color: #3A1A04;
+
+
+}
+.br {
+    position: absolute;
+width: 300px;
+height: 32px;
+left: 290px;
+top: 50px;
+
+font-family: 'jsMath-cmmi10';
+font-style: italic;
+font-weight: 700;
+font-size: 35px;
+line-height: 31px;
+
+color: #3A1A04;
+   
+}
+.ds {
+    position: absolute;
+width: 300px;
+height: 32px;
+left: 550px;
+top: 50px;
+
+font-family: 'jsMath-cmmi10';
+font-style: italic;
+font-weight: 700;
+font-size: 35px;
+line-height: 31px;
+
+color: #3A1A04;
+    
+}
+.dr1 {
+    /* Кава Какао Чай Капучино Лимонад */
+
+position: absolute;
+width: 327px;
+height: 200px;
+left: 49px;
+top: 120px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 30px;
+
+color: #E29158;
+
+
+}
+.br1 {
+    /* Круасан Млинці Сирники Сендвічі Панкейки Салати */
+
+position: absolute;
+width: 164px;
+height: 292px;
+left: 295px;
+top: 120px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 29px;
+
+color: #E29158;
+
+
+}
+.ds1 {
+    /* Чизкейк Еклери Тірамісу Пудинг Медовик */
+
+position: absolute;
+width: 113px;
+height: 197px;
+left: 550px;
+top:120px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 27px;
+line-height: 29px;
+
+color: #E29158;
+
+
+}
+.gj {
+    /* сніданки цілий день */
+
+position: absolute;
+width: 256px;
+height: 42px;
+left: 19px;
+top: 25px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+color: #D99D7D;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.gh {
+    /* Щодня з 7:00-22:00 */
+
+position: absolute;
+width: 525px;
+height: 49px;
+left: 12px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFBD99;
+
+
+}
+
+
